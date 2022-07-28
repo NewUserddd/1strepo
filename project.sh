@@ -1,1 +1,1 @@
-echo "this is my 1st project now"
+echo "Hi, this is my 1st project now"
